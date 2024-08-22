@@ -19,3 +19,7 @@ nav ul{
     padding: 0;
     width: auto;
 }
+nav ul li{
+    display: inline;
+    margin: 0 15 px;
+}
