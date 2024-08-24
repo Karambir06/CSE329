@@ -23,3 +23,7 @@ nav ul li{
     display: inline;
     margin: 0 15 px;
 }
+nav ul li a{
+   color: beige;
+   text-decoration: none;
+}
