@@ -29,3 +29,17 @@ nav ul li a{
    text-decoration: none;
    
 }
+h1{
+    text-align: center;
+    text-transform: uppercase;
+color: green;
+}
+h2{
+text-indent: 50px;
+text-align: justify;
+letter-spacing: 3px;
+}
+#h5{
+    border: 1px solid gray;
+    padding: 8px;
+}
